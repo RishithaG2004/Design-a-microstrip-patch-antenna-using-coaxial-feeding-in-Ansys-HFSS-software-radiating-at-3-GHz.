@@ -39,17 +39,18 @@ The antenna design process involved the following steps:
 ### Return Loss (S11 Parameter)
 The return loss of the designed antenna was found to be *-17.5 dB*, indicating a good match between the antenna and the feed line.
 
-![Return Loss](https://github.com/user-attachments/assets/84757386-d962-484f-b0b7-a78e8d72c26e)
+![Return Loss](https://github.com/user-attachments/assets/4c4f763e-1ec2-4c29-b41d-9e06381bd400)
 
 ### 2D Radiation Pattern at 3 GHz
 The following is the 2D polar plot showing the radiation pattern of the antenna at 3 GHz.
 
-![2D Radiation Pattern](https://github.com/user-attachments/assets/bdab3a42-c018-43ce-99d4-9d50a868d4e5)
+![2D Radiation Pattern](https://github.com/user-attachments/assets/8fd9bc2c-4edd-4d73-b9e3-0613370b2c3d)
+
 
 ### 3D Radiation Pattern at 3 GHz
 Here is the 3D radiation pattern showing the antenna's performance at 3 GHz.
 
-![3D Radiation Pattern](https://github.com/user-attachments/assets/b9cdd7d8-06a1-4879-864d-1dfdaa7bdba3)
+![3D Radiation Pattern](https://github.com/user-attachments/assets/05355c53-6a46-4cec-bcf4-b18fd99112bc)
 
 
 ## Discussion
