@@ -49,7 +49,8 @@ The following is the 2D polar plot showing the radiation pattern of the antenna 
 ### 3D Radiation Pattern at 3 GHz
 Here is the 3D radiation pattern showing the antenna's performance at 3 GHz.
 
-![3D Radiation Pattern](https://example.com/3d_radiation_pattern.png)
+![3D Radiation Pattern](https://github.com/user-attachments/assets/b9cdd7d8-06a1-4879-864d-1dfdaa7bdba3)
+
 
 ## Discussion
 The microstrip patch antenna resonates at the desired frequency of *3 GHz* with a return loss of *-17.5 dB*. The antenna design achieves efficient performance, making it suitable for applications like weather radar, surface ship radar, and satellite communication.
