@@ -44,7 +44,8 @@ The return loss of the designed antenna was found to be *-17.5 dB*, indicating a
 ### 2D Radiation Pattern at 3 GHz
 The following is the 2D polar plot showing the radiation pattern of the antenna at 3 GHz.
 
-![2D Radiation Pattern](https://example.com/2d_radiation_pattern.png)
+![2D Radiation Pattern](![2D](https://github.com/user-attachments/assets/bdab3a42-c018-43ce-99d4-9d50a868d4e5)
+)
 
 ### 3D Radiation Pattern at 3 GHz
 Here is the 3D radiation pattern showing the antenna's performance at 3 GHz.
