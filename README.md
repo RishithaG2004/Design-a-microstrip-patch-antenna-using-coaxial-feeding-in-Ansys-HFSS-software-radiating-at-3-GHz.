@@ -1,4 +1,3 @@
-## Design a microstrip patch antenna using coaxial feeding in Ansys HFSS software radiating at 3 GHz.
 # Microstrip Patch Antenna Design
 
 This project focuses on the design of a microstrip patch antenna using coaxial feeding, operating at a frequency of 3 GHz. The project was developed using Ansys HFSS software to simulate and analyze the antenna's performance.
@@ -40,7 +39,7 @@ The antenna design process involved the following steps:
 ### Return Loss (S11 Parameter)
 The return loss of the designed antenna was found to be *-17.5 dB*, indicating a good match between the antenna and the feed line.
 
-![Return Loss](https://example.com/return_loss.png)
+![Return Loss](https://github.com/user-attachments/assets/84757386-d962-484f-b0b7-a78e8d72c26e)
 
 ### 2D Radiation Pattern at 3 GHz
 The following is the 2D polar plot showing the radiation pattern of the antenna at 3 GHz.
