@@ -10,16 +10,16 @@ A microstrip patch antenna is a compact, low-profile antenna used in modern comm
 ### Design Parameters
 The following parameters were used in the design:
 
-| Parameter        | Value        |
-|------------------|--------------|
+| Parameter                | Value        |
+|--------------------------|--------------|
 | Dielectric Constant (εr) | 4.4          |
-| Resonant Frequency (f₀) | 3 GHz        |
-| Patch Length (L) | 30.42 mm      |
-| Patch Width (W)  | 23.42 mm      |
-| Substrate Height (h) | 1.6 mm    |
-| Substrate Length | 60 mm        |
-| Substrate Width  | 60 mm        |
-| Feed Location (X, Y) | (0, -1.5) mm |
+| Resonant Frequency (f₀)  | 3 GHz        |
+| Patch Length (L)         | 30.42 mm     |
+| Patch Width (W)          | 23.42 mm     |
+| Substrate Height (h)     | 1.6 mm       |
+| Substrate Length         | 60 mm        |
+| Substrate Width          | 60 mm        |
+| Feed Location (X, Y)     | (0, -1.5) mm |
 
 ### Antenna Feeding
 Coaxial feeding was used for the antenna, where the inner conductor of the coaxial connector is soldered onto the patch, and the outer conductor is attached to the ground plane.
